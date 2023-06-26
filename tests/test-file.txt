@@ -1,0 +1,12 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------/mnt/c/Users/d-hiran.patel/OneDrive - AFS Defense/Documents/Code/SCRATCH/file-encrypt (master*) » cargo build                                                                                                    101 ↵ hiran@AFSWWCIQ088EF9 
+   Compiling file-encrypt v0.0.1 (/mnt/c/Users/d-hiran.patel/OneDrive - AFS Defense/Documents/Code/SCRATCH/file-encrypt)
+    Finished dev [unoptimized + debuginfo] target(s) in 17.63s
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------/mnt/c/Users/d-hiran.patel/OneDrive - AFS Defense/Documents/Code/SCRATCH/file-encrypt (master*) » target/debug/file_encrypt-cli --help                                                                                 hiran@AFSWWCIQ088EF9 
+Usage: file_encrypt-cli --operation <OPERATION> --passphrase <PASSPHRASE> --file-path <FILE_PATH>
+
+Options:
+  -o, --operation <OPERATION>    [possible values: encrypt, decrypt]
+  -p, --passphrase <PASSPHRASE>
+  -f, --file-path <FILE_PATH>
+  -h, --help                     Print help
+  -V, --version                  Print version
